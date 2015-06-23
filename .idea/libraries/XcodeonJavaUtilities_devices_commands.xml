@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="XcodeonJavaUtilities_devices_commands">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/libs/XcodeonJavaUtilities_devices_commands.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

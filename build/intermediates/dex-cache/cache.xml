@@ -2,11 +2,25 @@
 <items version="2" >
 
     <item
-        jar="C:\Users\Gjun\Desktop\20150618\MapShape01ForStudent\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\jars\libs\internal_impl-22.0.0.jar"
+        jar="C:\Users\Gjun\Desktop\20150618\MapShape01ForStudent\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\jars\classes.jar"
         jumboMode="false"
         revision="22.0.1"
-        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
-        <dex dex="C:\Users\Gjun\Desktop\20150618\MapShape01ForStudent\app\build\intermediates\pre-dexed\debug\internal_impl-22.0.0-655ba7258a9f7c99f6b50824ddb8d21127992c64.jar" />
+        sha1="a78183f30e769a98ab4820794f597763088d3065">
+        <dex dex="C:\Users\Gjun\Desktop\20150618\MapShape01ForStudent\app\build\intermediates\pre-dexed\debug\classes-5d34995fdc1890bb92b85ac649f1d8b27ef7072d.jar" />
+    </item>
+    <item
+        jar="C:\Users\Gjun\Desktop\20150618\MapShape01ForStudent\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1a6411087ab88ce5542f593e63a2752b6b0d6f1a">
+        <dex dex="C:\Users\Gjun\Desktop\20150618\MapShape01ForStudent\app\build\intermediates\pre-dexed\debug\classes-7958b6745f0c5c858bc861a383801c4afb44199f.jar" />
+    </item>
+    <item
+        jar="C:\Users\Gjun\Desktop\20150618\MapShape01ForStudent\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d84409890828e07d344a3b9b1da545dba9897b51">
+        <dex dex="C:\Users\Gjun\Desktop\20150618\MapShape01ForStudent\app\build\intermediates\pre-dexed\debug\classes-834fa8531f2f76104d54cdc064e10c26faa85f11.jar" />
     </item>
     <item
         jar="C:\Users\Gjun\Desktop\20150618\MapShape01ForStudent\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appstate\7.5.0\jars\classes.jar"
@@ -23,39 +37,11 @@
         <dex dex="C:\Users\Gjun\Desktop\20150618\MapShape01ForStudent\app\build\intermediates\pre-dexed\debug\classes-55aa71411b22277408f83fdde97398e9680e1350.jar" />
     </item>
     <item
-        jar="C:\Users\Gjun\Desktop\20150618\MapShape01ForStudent\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\7.5.0\jars\classes.jar"
+        jar="C:\Users\Gjun\Desktop\20150618\MapShape01ForStudent\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.5.0\jars\classes.jar"
         jumboMode="false"
         revision="22.0.1"
-        sha1="1a6411087ab88ce5542f593e63a2752b6b0d6f1a">
-        <dex dex="C:\Users\Gjun\Desktop\20150618\MapShape01ForStudent\app\build\intermediates\pre-dexed\debug\classes-7958b6745f0c5c858bc861a383801c4afb44199f.jar" />
-    </item>
-    <item
-        jar="C:\Users\Gjun\Desktop\20150618\MapShape01ForStudent\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\7.5.0\jars\classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="a172852a35ff919e85b9b7f14bbc15c5bee25520">
-        <dex dex="C:\Users\Gjun\Desktop\20150618\MapShape01ForStudent\app\build\intermediates\pre-dexed\debug\classes-0e7338cbbfaa6abfbaa8d2a0be8a0d0548b1d6bb.jar" />
-    </item>
-    <item
-        jar="C:\Users\Gjun\Desktop\20150618\MapShape01ForStudent\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\jars\classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="a78183f30e769a98ab4820794f597763088d3065">
-        <dex dex="C:\Users\Gjun\Desktop\20150618\MapShape01ForStudent\app\build\intermediates\pre-dexed\debug\classes-5d34995fdc1890bb92b85ac649f1d8b27ef7072d.jar" />
-    </item>
-    <item
-        jar="C:\Users\Gjun\Desktop\20150618\MapShape01ForStudent\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\7.5.0\jars\classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="6836d188602ec5382d1967c58b00960eb8ff8773">
-        <dex dex="C:\Users\Gjun\Desktop\20150618\MapShape01ForStudent\app\build\intermediates\pre-dexed\debug\classes-3b073976efd3b27fa1e854f1667caa7b9fcb62da.jar" />
-    </item>
-    <item
-        jar="C:\Users\Gjun\Desktop\20150618\MapShape01ForStudent\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\7.5.0\jars\classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="69dd177337ead693c408c8dddc9546bb6f1244fa">
-        <dex dex="C:\Users\Gjun\Desktop\20150618\MapShape01ForStudent\app\build\intermediates\pre-dexed\debug\classes-30517c4fc39ec754052c15f8317babd85cb0f68d.jar" />
+        sha1="06a42becc33232ec0ee125161da68c1829c9f8fd">
+        <dex dex="C:\Users\Gjun\Desktop\20150618\MapShape01ForStudent\app\build\intermediates\pre-dexed\debug\classes-e2e64c11de0edafa2b51192255ac63dd53450410.jar" />
     </item>
     <item
         jar="C:\Users\Gjun\Desktop\20150618\MapShape01ForStudent\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\7.5.0\jars\classes.jar"
@@ -65,109 +51,11 @@
         <dex dex="C:\Users\Gjun\Desktop\20150618\MapShape01ForStudent\app\build\intermediates\pre-dexed\debug\classes-786801b838ce7b0c8960aeb9c91864ab56a749bd.jar" />
     </item>
     <item
-        jar="C:\Users\Gjun\Desktop\Android.part01\Android\android-sdk-windows\extras\android\m2repository\com\android\support\support-annotations\22.0.0\support-annotations-22.0.0.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
-        <dex dex="C:\Users\Gjun\Desktop\20150618\MapShape01ForStudent\app\build\intermediates\pre-dexed\debug\support-annotations-22.0.0-092fd1e2a36e2efde4986617c6b9409cc72de0de.jar" />
-    </item>
-    <item
-        jar="C:\Users\Gjun\Desktop\20150618\MapShape01ForStudent\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\7.5.0\jars\classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="272bc5d7063f24bc3a33ea1d318cde8f31f5ec4c">
-        <dex dex="C:\Users\Gjun\Desktop\20150618\MapShape01ForStudent\app\build\intermediates\pre-dexed\debug\classes-5adf3e94e5f1a2f3ee3e38a1a2a15feea2efb3f1.jar" />
-    </item>
-    <item
-        jar="C:\Users\Gjun\Desktop\20150618\MapShape01ForStudent\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\22.0.0\jars\classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="a1372c17fccacca753d3951d3ad820571cbce075">
-        <dex dex="C:\Users\Gjun\Desktop\20150618\MapShape01ForStudent\app\build\intermediates\pre-dexed\debug\classes-ea8d07fa90394a4290edeef7b43ecd06774c7393.jar" />
-    </item>
-    <item
-        jar="C:\Users\Gjun\Desktop\20150618\MapShape01ForStudent\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\7.5.0\jars\classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="63ec6e9f4fe5482a7447d0f3091b8e543a02554c">
-        <dex dex="C:\Users\Gjun\Desktop\20150618\MapShape01ForStudent\app\build\intermediates\pre-dexed\debug\classes-f1c689c19f6f9d702164cd67d992817025faa734.jar" />
-    </item>
-    <item
         jar="C:\Users\Gjun\Desktop\20150618\MapShape01ForStudent\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\7.5.0\jars\classes.jar"
         jumboMode="false"
         revision="22.0.1"
         sha1="6440e5e5cfe368f9bff3c537fb8988048069cb33">
         <dex dex="C:\Users\Gjun\Desktop\20150618\MapShape01ForStudent\app\build\intermediates\pre-dexed\debug\classes-85772286b20bde6f33e6f9f837937763cdaf908f.jar" />
-    </item>
-    <item
-        jar="C:\Users\Gjun\Desktop\20150618\MapShape01ForStudent\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\7.5.0\jars\classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="f44d03c138cb6488fdbaa65e3a7e5878861a56d8">
-        <dex dex="C:\Users\Gjun\Desktop\20150618\MapShape01ForStudent\app\build\intermediates\pre-dexed\debug\classes-e77753376bc8cf4a971b911679dba00f6dd76123.jar" />
-    </item>
-    <item
-        jar="C:\Users\Gjun\Desktop\20150618\MapShape01ForStudent\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\7.5.0\jars\classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="ba207be21987c11b37d9f8faa08ed6e722569f30">
-        <dex dex="C:\Users\Gjun\Desktop\20150618\MapShape01ForStudent\app\build\intermediates\pre-dexed\debug\classes-9f7d4c103d73317441292c04c98647e14ef1f7b2.jar" />
-    </item>
-    <item
-        jar="C:\Users\Gjun\Desktop\20150618\MapShape01ForStudent\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.5.0\jars\classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="06a42becc33232ec0ee125161da68c1829c9f8fd">
-        <dex dex="C:\Users\Gjun\Desktop\20150618\MapShape01ForStudent\app\build\intermediates\pre-dexed\debug\classes-e2e64c11de0edafa2b51192255ac63dd53450410.jar" />
-    </item>
-    <item
-        jar="C:\Users\Gjun\Desktop\20150618\MapShape01ForStudent\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\jars\classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="d84409890828e07d344a3b9b1da545dba9897b51">
-        <dex dex="C:\Users\Gjun\Desktop\20150618\MapShape01ForStudent\app\build\intermediates\pre-dexed\debug\classes-834fa8531f2f76104d54cdc064e10c26faa85f11.jar" />
-    </item>
-    <item
-        jar="C:\Users\Gjun\Desktop\20150618\MapShape01ForStudent\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\jars\classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
-        <dex dex="C:\Users\Gjun\Desktop\20150618\MapShape01ForStudent\app\build\intermediates\pre-dexed\debug\classes-42d2139c2edacc4c3d5a577c2063af11683933b5.jar" />
-    </item>
-    <item
-        jar="C:\Users\Gjun\Desktop\20150618\MapShape01ForStudent\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\7.5.0\jars\classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="1e98ef3f124bb7a11f8575f9ff5dfea330b61b6f">
-        <dex dex="C:\Users\Gjun\Desktop\20150618\MapShape01ForStudent\app\build\intermediates\pre-dexed\debug\classes-cf407f6557319cb208a62d8836a9cb8c7bdee298.jar" />
-    </item>
-    <item
-        jar="C:\Users\Gjun\Desktop\20150618\MapShape01ForStudent\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\7.5.0\jars\classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="02bac2dc792d78241077861566f2c82da955e7fa">
-        <dex dex="C:\Users\Gjun\Desktop\20150618\MapShape01ForStudent\app\build\intermediates\pre-dexed\debug\classes-25e9d721c9e239c914aa7325a6dab539cda9097f.jar" />
-    </item>
-    <item
-        jar="C:\Users\Gjun\Desktop\20150618\MapShape01ForStudent\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\7.5.0\jars\classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="e7b35244f50663b3f8d150714bca9ecd7a290da1">
-        <dex dex="C:\Users\Gjun\Desktop\20150618\MapShape01ForStudent\app\build\intermediates\pre-dexed\debug\classes-bd09ee191efcfdbc586c61cd704b2340a4d7b301.jar" />
-    </item>
-    <item
-        jar="C:\Users\Gjun\Desktop\20150618\MapShape01ForStudent\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\7.5.0\jars\classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="8d736fefa22d896e84a268354b3ed48a42663150">
-        <dex dex="C:\Users\Gjun\Desktop\20150618\MapShape01ForStudent\app\build\intermediates\pre-dexed\debug\classes-ba120d3ade19c483e6713f443a592d3b31e413f0.jar" />
-    </item>
-    <item
-        jar="C:\Users\Gjun\Desktop\20150618\MapShape01ForStudent\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\7.5.0\jars\classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="d405025c600055237c171a0bbabaa49d69696573">
-        <dex dex="C:\Users\Gjun\Desktop\20150618\MapShape01ForStudent\app\build\intermediates\pre-dexed\debug\classes-f8b2c1260e9f26b98a716b507a7e699c7d02bc52.jar" />
     </item>
     <item
         jar="C:\Users\Gjun\Desktop\20150618\MapShape01ForStudent\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\7.5.0\jars\classes.jar"
@@ -177,11 +65,130 @@
         <dex dex="C:\Users\Gjun\Desktop\20150618\MapShape01ForStudent\app\build\intermediates\pre-dexed\debug\classes-333cc78262fd81a02f890f4817fb02b82e28b321.jar" />
     </item>
     <item
+        jar="C:\Users\Gjun\Desktop\20150618\MapShape01ForStudent\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="63ec6e9f4fe5482a7447d0f3091b8e543a02554c">
+        <dex dex="C:\Users\Gjun\Desktop\20150618\MapShape01ForStudent\app\build\intermediates\pre-dexed\debug\classes-f1c689c19f6f9d702164cd67d992817025faa734.jar" />
+    </item>
+    <item
+        jar="C:\Users\Gjun\Desktop\20150618\MapShape01ForStudent\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="8d736fefa22d896e84a268354b3ed48a42663150">
+        <dex dex="C:\Users\Gjun\Desktop\20150618\MapShape01ForStudent\app\build\intermediates\pre-dexed\debug\classes-ba120d3ade19c483e6713f443a592d3b31e413f0.jar" />
+    </item>
+    <item
+        jar="C:\Users\Gjun\Desktop\20150618\MapShape01ForStudent\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="6836d188602ec5382d1967c58b00960eb8ff8773">
+        <dex dex="C:\Users\Gjun\Desktop\20150618\MapShape01ForStudent\app\build\intermediates\pre-dexed\debug\classes-3b073976efd3b27fa1e854f1667caa7b9fcb62da.jar" />
+    </item>
+    <item
         jar="C:\Users\Gjun\Desktop\20150618\MapShape01ForStudent\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\22.0.0\jars\libs\internal_impl-22.0.0.jar"
         jumboMode="false"
         revision="22.0.1"
         sha1="ba3df4eb0a630d7de294f0e48d3f9267d279b784">
         <dex dex="C:\Users\Gjun\Desktop\20150618\MapShape01ForStudent\app\build\intermediates\pre-dexed\debug\internal_impl-22.0.0-fcdb65f8d95f94b4e8a4329e9ac5587abe6016a5.jar" />
+    </item>
+    <item
+        jar="C:\Users\Gjun\Desktop\20150618\MapShape01ForStudent\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e7b35244f50663b3f8d150714bca9ecd7a290da1">
+        <dex dex="C:\Users\Gjun\Desktop\20150618\MapShape01ForStudent\app\build\intermediates\pre-dexed\debug\classes-bd09ee191efcfdbc586c61cd704b2340a4d7b301.jar" />
+    </item>
+    <item
+        jar="C:\Users\Gjun\Desktop\20150618\MapShape01ForStudent\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\jars\libs\internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="C:\Users\Gjun\Desktop\20150618\MapShape01ForStudent\app\build\intermediates\pre-dexed\debug\internal_impl-22.0.0-655ba7258a9f7c99f6b50824ddb8d21127992c64.jar" />
+    </item>
+    <item
+        jar="C:\Users\Gjun\Desktop\20150618\MapShape01ForStudent\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="69dd177337ead693c408c8dddc9546bb6f1244fa">
+        <dex dex="C:\Users\Gjun\Desktop\20150618\MapShape01ForStudent\app\build\intermediates\pre-dexed\debug\classes-30517c4fc39ec754052c15f8317babd85cb0f68d.jar" />
+    </item>
+    <item
+        jar="C:\Users\Gjun\Desktop\Android.part01\Android\android-sdk-windows\extras\android\m2repository\com\android\support\support-annotations\22.0.0\support-annotations-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="C:\Users\Gjun\Desktop\20150618\MapShape01ForStudent\app\build\intermediates\pre-dexed\debug\support-annotations-22.0.0-092fd1e2a36e2efde4986617c6b9409cc72de0de.jar" />
+    </item>
+    <item
+        jar="C:\Users\Gjun\Desktop\20150618\MapShape01ForStudent\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="02bac2dc792d78241077861566f2c82da955e7fa">
+        <dex dex="C:\Users\Gjun\Desktop\20150618\MapShape01ForStudent\app\build\intermediates\pre-dexed\debug\classes-25e9d721c9e239c914aa7325a6dab539cda9097f.jar" />
+    </item>
+    <item
+        jar="C:\Users\Gjun\Desktop\20150618\MapShape01ForStudent\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a172852a35ff919e85b9b7f14bbc15c5bee25520">
+        <dex dex="C:\Users\Gjun\Desktop\20150618\MapShape01ForStudent\app\build\intermediates\pre-dexed\debug\classes-0e7338cbbfaa6abfbaa8d2a0be8a0d0548b1d6bb.jar" />
+    </item>
+    <item
+        jar="C:\Users\Gjun\Desktop\20150618\MapShape01ForStudent\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f44d03c138cb6488fdbaa65e3a7e5878861a56d8">
+        <dex dex="C:\Users\Gjun\Desktop\20150618\MapShape01ForStudent\app\build\intermediates\pre-dexed\debug\classes-e77753376bc8cf4a971b911679dba00f6dd76123.jar" />
+    </item>
+    <item
+        jar="C:\Users\Gjun\Desktop\20150618\MapShape01ForStudent\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1e98ef3f124bb7a11f8575f9ff5dfea330b61b6f">
+        <dex dex="C:\Users\Gjun\Desktop\20150618\MapShape01ForStudent\app\build\intermediates\pre-dexed\debug\classes-cf407f6557319cb208a62d8836a9cb8c7bdee298.jar" />
+    </item>
+    <item
+        jar="C:\Users\Gjun\Desktop\20150618\MapShape01ForStudent\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="272bc5d7063f24bc3a33ea1d318cde8f31f5ec4c">
+        <dex dex="C:\Users\Gjun\Desktop\20150618\MapShape01ForStudent\app\build\intermediates\pre-dexed\debug\classes-5adf3e94e5f1a2f3ee3e38a1a2a15feea2efb3f1.jar" />
+    </item>
+    <item
+        jar="C:\Users\Gjun\Desktop\20150618\MapShape01ForStudent\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="C:\Users\Gjun\Desktop\20150618\MapShape01ForStudent\app\build\intermediates\pre-dexed\debug\classes-42d2139c2edacc4c3d5a577c2063af11683933b5.jar" />
+    </item>
+    <item
+        jar="C:\Users\Gjun\Desktop\20150618\MapShape01ForStudent\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="ba207be21987c11b37d9f8faa08ed6e722569f30">
+        <dex dex="C:\Users\Gjun\Desktop\20150618\MapShape01ForStudent\app\build\intermediates\pre-dexed\debug\classes-9f7d4c103d73317441292c04c98647e14ef1f7b2.jar" />
+    </item>
+    <item
+        jar="C:\Users\Gjun\Desktop\20150618\MapShape01ForStudent\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d405025c600055237c171a0bbabaa49d69696573">
+        <dex dex="C:\Users\Gjun\Desktop\20150618\MapShape01ForStudent\app\build\intermediates\pre-dexed\debug\classes-f8b2c1260e9f26b98a716b507a7e699c7d02bc52.jar" />
+    </item>
+    <item
+        jar="C:\Users\Gjun\Desktop\20150618\MapShape01ForStudent\app\libs\XcodeonJavaUtilities_devices_commands.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="455951878ec8ed1ae58452d51daed73d23f07786">
+        <dex dex="C:\Users\Gjun\Desktop\20150618\MapShape01ForStudent\app\build\intermediates\pre-dexed\debug\XcodeonJavaUtilities_devices_commands-dd72295319e153b2435eee50b8cfa3897f8cf2d6.jar" />
+    </item>
+    <item
+        jar="C:\Users\Gjun\Desktop\20150618\MapShape01ForStudent\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\22.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a1372c17fccacca753d3951d3ad820571cbce075">
+        <dex dex="C:\Users\Gjun\Desktop\20150618\MapShape01ForStudent\app\build\intermediates\pre-dexed\debug\classes-ea8d07fa90394a4290edeef7b43ecd06774c7393.jar" />
     </item>
 
 </items>
